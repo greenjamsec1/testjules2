@@ -1,11 +1,11 @@
 {
-  "name": "test",
+  "name": "react-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "react-scripts test"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "@greenjamsec/green-jam": "^1.0.0"
+  }
 }
+
