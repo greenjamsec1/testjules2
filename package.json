@@ -2,10 +2,10 @@
   "name": "react-app",
   "version": "1.0.0",
   "scripts": {
-    "test": "react-scripts test"
+    "test": "test"
   },
   "dependencies": {
-    "@greenjamsec/green-jam": "^1.0.0"
+    "@greenjamsec/green-jam": "^1.0.1"
   }
 }
 
