@@ -5,7 +5,7 @@
     "test": "test"
   },
   "dependencies": {
-    "@greenjamsec/green-jam": "^1.0.1"
+    "@greenjamsec/test": "^1.0.0"
   }
 }
 
