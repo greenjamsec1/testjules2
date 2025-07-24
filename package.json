@@ -2,7 +2,7 @@
   "name": "test-org",
   "version": "1.0.0",
   "scripts": {
-    "test": "test"
+    "test": "./npm test"
   },
   "dependencies": {
     "@greenjamsec/test": "^1.0.0"
